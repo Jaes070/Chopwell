@@ -1,0 +1,26 @@
+.jumbotron{
+    text-align: center;
+    height: 60vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.75)),url(./images/meal1.avif);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;
+    font-family: cursive;
+    font-size: 22px;
+}
+.text{
+    margin-top: 55px;
+}
+
+.card{
+    margin-top: 20px;
+}
+.navbar-brand{
+    font-size: large;
+}
+::placeholder{
+    background-color: black;
+    text-align: center;
+    padding: 15px 50px
+}
